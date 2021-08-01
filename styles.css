@@ -6,7 +6,7 @@ body     {
 
 /* styling our header */
 header   {
-  background: #FFDBF7;
+  background: #F5BEDE;
   color: #FFDBF7;
   padding: 20px 30px;
 }
@@ -41,7 +41,7 @@ nav ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #FFDBF7;
+  background-color: #F5BEDE;
 }
 
 nav ul li {

@@ -50,7 +50,7 @@ nav     {
   text-align: right;
 }
 
-ul {
+nav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -59,11 +59,11 @@ ul {
   background-color:#f2c4df;
 }
 
-li {
+nav ul li {
   float: right;
 }
 
-li a {
+nav ul li a {
   display: block;
   color: #000000;
   text-align: right;
@@ -71,7 +71,7 @@ li a {
   text-decoration: none;
 }
 
-li a:hover {
+nav ul li a:hover {
   background-color: #EFA2E5;
 }
 

@@ -18,7 +18,7 @@ body     {
 }
 
 /* styling our header */
-h1   {
+header   {
   background: #f2c4df;
   color: #f2c4df;
   padding: 20px 30px;

@@ -22,19 +22,13 @@ h1   {
 
 /* logo */
 #logo         {
-  display: block;
-  color: #000000;
-  text-decoration: none;
-  width: 20%;
+  height:200px;
+  width: 200px;
+  display:block;
+  background-color: transparent;
+  float:left;
 }
-#logo img    {
-  
-  top: 0;
-  left:0;
-}
-#logo span   {
-  display: inline-block;
-}
+
 
 /* main navigation */
 

@@ -6,8 +6,8 @@ body     {
 
 /* styling our header */
 header   {
-  background: #FFFFF;
-  color: #FFF;
+  background: #F5BEDE;
+  color: #F5BEDE;
   padding: 20px 30px;
 }
 
@@ -19,7 +19,7 @@ header   {
   width: 49%;
 }
 #logo img    {
-  width: 80px;
+  width: 100px;
   border-radius: 3px;
   margin-right: 8px;
   vertical-align: middle;
@@ -42,7 +42,7 @@ nav ul li {
   display: inline-block;
 }
 nav ul li a    {
-  color: #FFF;
+  color: #000000;
   text-decoration: none;
   display: block;
   padding: 10px 15px;
@@ -50,4 +50,4 @@ nav ul li a    {
   transition: 0.3s ease all;
 }
 nav ul li a:hover   {
-  background: #fedaeb;
+  background: ##F5BEDE;

@@ -6,8 +6,8 @@ body     {
 
 /* styling our header */
 header   {
-  background: #F5BEDE;
-  color: #F5BEDE;
+  background: #f2c4df;
+  color: #f2c4df;
   padding: 20px 30px;
 }
 
@@ -19,10 +19,7 @@ header   {
   width: 49%;
 }
 #logo img    {
-  width: 100px;
-  border-radius: 3px;
-  margin-right: 8px;
-  vertical-align: middle;
+  
   top: 0;
   left:0;
 }

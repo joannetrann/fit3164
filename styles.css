@@ -22,10 +22,10 @@ h1   {
 
 /* logo */
 #logo         {
-  display: inline-block;
+  display: block;
   color: #000000;
   text-decoration: none;
-  width: 49%;
+  width: 20%;
 }
 #logo img    {
   

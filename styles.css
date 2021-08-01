@@ -7,7 +7,7 @@ body     {
 /* styling our header */
 header   {
   background: #F5BEDE;
-  color: #FFDBF7;
+  color: #F5BEDE;
   padding: 20px 30px;
 }
 
@@ -50,7 +50,7 @@ nav ul li {
 
 nav ul li a {
   display: block;
-  color: black;
+  color: #000000;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;

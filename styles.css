@@ -44,13 +44,7 @@ header   {
 
 
 /* main navigation */
-nav     {
-  width: 50%;
-  display: inline-block;
-  text-align: right;
-}
-
-nav ul {
+ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -58,20 +52,18 @@ nav ul {
   font-size: 12px;
   background-color:#f2c4df;
 }
-
-nav ul li {
+ li {
   float: right;
 }
 
-nav ul li a {
+ li a {
   display: block;
   color: #000000;
   text-align: right;
   padding: 14px 16px;
   text-decoration: none;
 }
-
-nav ul li a:hover {
+ li a:hover {
   background-color: #EFA2E5;
 }
 

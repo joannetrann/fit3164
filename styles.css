@@ -112,3 +112,10 @@ li a:hover {
   border-radius: 3px;
   margin-right: 8px;
   vertical-align: middle;
+   
+ /*customers*/
+ .customers {
+    margin 50px 0;
+    text-allign: centre;
+   }
+   

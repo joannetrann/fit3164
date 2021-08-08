@@ -80,8 +80,7 @@ ul {
 }
 
 li {
-  left:50px;
-
+   float:left;
 
 }
 
@@ -92,6 +91,13 @@ li a {
   padding: 14px 16px;
   text-decoration: none;
 }
+
+li a:hover:not(.active) {
+  background-color: #f2c4df;
+}
+
+.active {
+  background-color: #EFA2E5;
 
 li a:hover {
   background-color: #EFA2E5;
@@ -152,7 +158,7 @@ li a:hover {
         
         <ul>
          
-          <li><a href="test.html">Home</a></li>
+          <li><a class="active" href="test.html">Home</a></li>
           <li><a href="aboutus.html">About Us</a></li>
            <li><a href="understandingpage.html">Understanding Breast Cancer</a></li>                          
            <li><a href="predictivemodel.html">Predictive Model</a></li>                      
